@@ -1,4 +1,4 @@
-setwd("C:/Users/rcappaw/Desktop/R/Workflow/igraphEpi-New/Empirical-Network-Classifier")
+#setwd("C:/Users/rcappaw/Desktop/R/Workflow/igraphEpi-New/Empirical-Network-Classifier")
  # future::plan("multisession", workers = 4) # do parallel
  # options(future.globals.maxSize = 1000 * 1024^2)
 # Load required libraries
